@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.16)  19 APR 2018 22:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.16)  19 APR 2018 22:47
 entering extended mode
 **./sachin_resume.tex
 (sachin_resume.tex
@@ -324,7 +324,7 @@ LaTeX Info: Redefining \nameref on input line 9.
 \@outlinefile=\write3
 \openout3 = `sachin_resume.out'.
 
-<said.jpg, id=23, 93.951pt x 122.859pt>
+<said.jpg, id=31, 93.951pt x 122.859pt>
 File: said.jpg Graphic file (type jpg)
 <use said.jpg>
 Package pdftex.def Info: said.jpg  used on input line 12.
@@ -383,28 +383,26 @@ P432P401R
 Missing character: There is no Â in font cmr10!
 Missing character: There is no µ in font cmr10!
 [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 107.
- [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 107.
+Overfull \hbox (5.54178pt too wide) in paragraph at lines 110--111
+[]\OT1/cmr/m/n/10 Secured 4th rank with con-so-la-tion prize in\OT1/cmr/bx/n/10
+ E-yantra 2017 \OT1/cmr/m/n/10 Na-tional robotics
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 115.
+[3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 115.
  (sachin_resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 107.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 107.
-
-
-Package rerunfilecheck Warning: File `sachin_resume.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `sachin_resume.out':
-(rerunfilecheck)             Before: F2423E5D3156E3B340D2ABC4E16118C3;273
-(rerunfilecheck)             After:  E9FF8056B5D4BD9410575370C3ABBEEA;337.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 107.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 115.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 115.
+Package rerunfilecheck Info: File `sachin_resume.out' has not changed.
+(rerunfilecheck)             Checksum: B498EEB3038EC1EF989CC96F457EF6F7;398.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 115.
  ) 
 Here is how much of TeX's memory you used:
- 6201 strings out of 493305
- 88691 string characters out of 3138827
+ 6208 strings out of 493305
+ 88750 string characters out of 3138827
  182733 words of memory out of 3000000
- 9686 multiletter control sequences out of 15000+200000
+ 9688 multiletter control sequences out of 15000+200000
  5007 words of font info for 19 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  28i,8n,35p,290b,470s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -412,9 +410,9 @@ Here is how much of TeX's memory you used:
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on sachin_resume.pdf (3 pages, 168732 bytes).
+Output written on sachin_resume.pdf (3 pages, 172002 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
- 27 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 92 PDF objects out of 1000 (max. 8388607)
+ 32 named destinations out of 1000 (max. 500000)
+ 62 words of extra memory for PDF output out of 10000 (max. 10000000)
 
